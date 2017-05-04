@@ -1,0 +1,1825 @@
+Test using namesdebate109 on 04/05/2017 at 12:55:02
+For tweet: <start> if i d had justice vs my rapist maybe i could have healed but hillary clinton made sure i suffered loss of justice then laughed it off <end> 
+Probability of supporting 
+ Hillary Clinton: 1.496629746357442e-49 
+ Donald Trump: 2.745595804878965e-45
+For tweet: <start> doesn t seem hillary clinton thinks to highly of blacks or muslims take a look it s highlighted in blue <end> 
+Probability of supporting 
+ Hillary Clinton: 2.936627646040248e-42 
+ Donald Trump: 1.1479564600758205e-40
+For tweet: <start> hillary clinton and the women of america she represents just do not deserve the misogyny tornado that is coming our way <end> 
+Probability of supporting 
+ Hillary Clinton: 4.653867099112939e-43 
+ Donald Trump: 1.1674448080854214e-48
+For tweet: <start> bill and hillary clinton s victims yes they are real women and they ve been brutalized <end> 
+Probability of supporting 
+ Hillary Clinton: 2.695546219437417e-31 
+ Donald Trump: 3.8717978963813905e-31
+For tweet: <start> so sorry kathy hillary clinton is a very sick sadistic human being and she will never be president she s a pedophile enabler <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4981259041154203e-49 
+ Donald Trump: 1.2718247966778294e-46
+For tweet: <start> huma s mother is a promoter of sharia law stated usa had 911 coming to it keep hillary clinton out <end> 
+Probability of supporting 
+ Hillary Clinton: 3.2600495911233686e-42 
+ Donald Trump: 3.0670594436909525e-45
+For tweet: <start> msnbc intelligence expert wikileaks is releasing falsified emails not really from hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 9.505827943406082e-35 
+ Donald Trump: 9.353931453817977e-37
+For tweet: <start> we urge voters to dump trump and choose the clearly qualified candidate in this race hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 2.515730793512439e-35 
+ Donald Trump: 1.5545785852411816e-32
+For tweet: <start> evangelicals r voting donald trump weve all made mistakes in our past hillary clinton is not an option <end> 
+Probability of supporting 
+ Hillary Clinton: 5.147958050326862e-43 
+ Donald Trump: 4.270665652232722e-37
+For tweet: <start> here incidentally is trump lavishing praise on hillary clinton post 90s scandals <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0020898875363455e-29 
+ Donald Trump: 9.418572129826093e-35
+For tweet: <start> new poll shows hillary clinton opening up double digit lead over donald trump in battleground state of pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5192252638036314e-33 
+ Donald Trump: 2.4604673410937335e-35
+For tweet: <start> hillary clinton is a cold hearted liar the lies she told about me 12 yr old rape victim traumatized me nearly as much as the rape itself <end> 
+Probability of supporting 
+ Hillary Clinton: 4.618773851040444e-48 
+ Donald Trump: 5.824021992599692e-54
+For tweet: <start> what hillary clinton said about the paris attacks proves she will destroy america <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7922195306942388e-27 
+ Donald Trump: 1.7662534060846076e-27
+For tweet: <start> donald trump in 1999 hillary clinton has been through more than any woman should have to bear <end> 
+Probability of supporting 
+ Hillary Clinton: 8.373455889167957e-33 
+ Donald Trump: 3.399018942629744e-34
+For tweet: <start> best reading for us presidential tonight 80 pages of hillary clinton s secret positions see attachment <end> 
+Probability of supporting 
+ Hillary Clinton: 6.721740395244329e-43 
+ Donald Trump: 3.4219811212574226e-36
+For tweet: <start> i don t care if trump said gross things i care that hillary clinton lied terrorized mocked me defending my rapist <end> 
+Probability of supporting 
+ Hillary Clinton: 2.534460103844527e-36 
+ Donald Trump: 5.741764743365852e-41
+For tweet: <start> hillary clinton gains double digit lead over donald trump in pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 2.79956189335362e-22 
+ Donald Trump: 5.17414389700821e-24
+For tweet: <start> bill clinton raped me and hillary clinton threatened me woman at trump s accusers event before tonight s <end> 
+Probability of supporting 
+ Hillary Clinton: 5.413302171713526e-34 
+ Donald Trump: 2.201850909065032e-29
+For tweet: <start> flashback hillary clinton loved sid blumenthal s plan to attack gop rape rage in 2012 video <end> 
+Probability of supporting 
+ Hillary Clinton: 5.819339878628059e-34 
+ Donald Trump: 6.416755133618203e-44
+For tweet: <start> these r golden wikileaks dumps excerpts from paid speeches hillary clinton sought to bury <end> 
+Probability of supporting 
+ Hillary Clinton: 6.54862485980119e-26 
+ Donald Trump: 5.482954418398418e-36
+For tweet: <start> bill and hillary clinton s victims yes they are real women and they ve been brutalized <end> 
+Probability of supporting 
+ Hillary Clinton: 2.695546219437417e-31 
+ Donald Trump: 3.8717978963813905e-31
+For tweet: <start> msnbc intelligence expert wikileaks is releasing falsified emails not really from hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 2.299797083082117e-35 
+ Donald Trump: 1.262038370753219e-37
+For tweet: <start> if trump goes forward with this the winners of the 2016 election will be hillary clinton and john zaller <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4059156508462222e-39 
+ Donald Trump: 4.441160710351874e-41
+For tweet: <start> evangelical leaders stand by trump and are determined to defeat hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 7.186056537560789e-24 
+ Donald Trump: 4.970279077121452e-21
+For tweet: <start> juanita broaddrick bill clinton raped me and hillary clinton threatened me <end> 
+Probability of supporting 
+ Hillary Clinton: 6.318789275459625e-29 
+ Donald Trump: 1.0907186957950227e-16
+For tweet: <start> bill clinton raped me and hillary clinton threatened me woman at trump s accusers event before tonight s <end> 
+Probability of supporting 
+ Hillary Clinton: 5.413302171713526e-34 
+ Donald Trump: 2.201850909065032e-29
+For tweet: <start> if i d had justice vs my rapist maybe i could have healed but hillary clinton made sure i suffered loss of justice then laughed it off <end> 
+Probability of supporting 
+ Hillary Clinton: 1.496629746357442e-49 
+ Donald Trump: 2.745595804878965e-45
+For tweet: <start> two hours till the retweet if you think donald trump will wipe the floor with hillary clinton even after the release of <end> 
+Probability of supporting 
+ Hillary Clinton: 3.9055938366217466e-43 
+ Donald Trump: 3.756592598655088e-44
+For tweet: <start> hillary clinton press sec says gun control to be implemented by executive order breitbart via <end> 
+Probability of supporting 
+ Hillary Clinton: 6.084898331465547e-34 
+ Donald Trump: 6.154475399457643e-27
+For tweet: <start> but what if hillary clinton served bill clinton divorce papers during the debate <end> 
+Probability of supporting 
+ Hillary Clinton: 1.954825695956193e-30 
+ Donald Trump: 4.762725485718306e-28
+For tweet: <start> hillary clinton is a cold hearted liar the lies she told about me 12 yr old rape victim traumatized me nearly as much as the rape itself <end> 
+Probability of supporting 
+ Hillary Clinton: 4.618773851040444e-48 
+ Donald Trump: 5.824021992599692e-54
+For tweet: <start> new poll shows hillary clinton opening up double digit lead over donald trump in battleground state of pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5192252638036314e-33 
+ Donald Trump: 2.4604673410937335e-35
+For tweet: <start> pre debate reading did hillary clinton politically attack paula jones gennifer flowers monica lewinsky <end> 
+Probability of supporting 
+ Hillary Clinton: 3.827741375646357e-39 
+ Donald Trump: 3.465762849553856e-28
+For tweet: <start> lou dobbs wikileaks prove hillary clinton is lying about everything she says <end> 
+Probability of supporting 
+ Hillary Clinton: 2.100895155024756e-30 
+ Donald Trump: 1.1835107887936118e-19
+For tweet: <start> bill clinton raped me and hillary clinton threatened me this election is really pulling up some bad stuffs <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2817298187234198e-40 
+ Donald Trump: 8.097014723577905e-33
+For tweet: <start> hillary clinton is not a victim of her husband s crimes she s a willing co conspirator smearing intimidating silencing victims <end> 
+Probability of supporting 
+ Hillary Clinton: 6.338501388330446e-47 
+ Donald Trump: 3.993046020733153e-52
+For tweet: <start> breaking up with hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.039287430892459e-09 
+ Donald Trump: 1.2381542511942255e-10
+For tweet: <start> all undecided women voters listen to these women what bill hillary clinton actually did to them not dirty words <end> 
+Probability of supporting 
+ Hillary Clinton: 5.014780485991553e-32 
+ Donald Trump: 2.906704406800549e-36
+For tweet: <start> i m just gonna say it now if what donald trump said is wrong then hillary clinton calling blacks super predators is wrong too <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2702107665931083e-38 
+ Donald Trump: 1.1154186744284124e-36
+For tweet: <start> donald trump believes that women exist for the satisfaction of men bill clinton cheating is to him therefore a failure of hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7504688476181505e-47 
+ Donald Trump: 2.634928100292787e-45
+For tweet: <start> hillary clinton s most idiotic moments via <end> 
+Probability of supporting 
+ Hillary Clinton: 4.2449483170267804e-14 
+ Donald Trump: 6.058483777394002e-18
+For tweet: <start> as he prepared to face hillary clinton in a pivotal debate on sunday night donald trump appeared with juanita <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3854816889157882e-46 
+ Donald Trump: 1.588949452901087e-39
+For tweet: <start> live stream donald trump hillary clinton second presidential debate at washington university 10 9 <end> 
+Probability of supporting 
+ Hillary Clinton: 2.769149078496295e-23 
+ Donald Trump: 1.6733873687389705e-23
+For tweet: <start> christichat deplorable hillary clinton destroyed the life of a 12 y o rape victim to get her rapist client off <end> 
+Probability of supporting 
+ Hillary Clinton: 4.192500832217303e-41 
+ Donald Trump: 5.6719378110100344e-36
+For tweet: <start> jamesmarcher wikileaks best reading for us presidential tonight 80 pages of hillary clinton s secret <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1615048883291838e-38 
+ Donald Trump: 2.0052754618870556e-31
+For tweet: <start> hillary clinton press sec says gun control to be implemented by executive order breitbart via <end> 
+Probability of supporting 
+ Hillary Clinton: 6.084898331465547e-34 
+ Donald Trump: 6.154475399457643e-27
+For tweet: <start> hillary clinton gains double digit lead over donald trump in pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 2.79956189335362e-22 
+ Donald Trump: 5.17414389700821e-24
+For tweet: <start> hillary clinton expresses support for fracking in wikileaks document <end> 
+Probability of supporting 
+ Hillary Clinton: 6.362817443834108e-26 
+ Donald Trump: 1.9527299444002664e-22
+For tweet: <start> cnn owned by time warner are one of the biggest donors to hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 9.190146590444553e-25 
+ Donald Trump: 1.1853015855945285e-31
+For tweet: <start> clinton brings out ms piggy brings out four bill hillary clinton rape victims wadup hughes <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7706459161936627e-30 
+ Donald Trump: 3.8616411091275265e-35
+For tweet: <start> tv pundits praise hillary clinton on air fail to disclose financial ties to her campaign by <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9487235808773035e-39 
+ Donald Trump: 1.9674509624610137e-37
+For tweet: <start> fact checker did hillary clinton shame gennifer flowers paula jones monica lewinsky and savage their dignity <end> 
+Probability of supporting 
+ Hillary Clinton: 7.806986150592139e-46 
+ Donald Trump: 4.3772467325130355e-39
+For tweet: <start> if dumb donald thinks this disgusting little stunt is going to shake tough as nails hillary clinton he is dumber than he looks <end> 
+Probability of supporting 
+ Hillary Clinton: 8.361312186294867e-42 
+ Donald Trump: 2.0362765209683942e-42
+For tweet: <start> not watching the debate tonight the race is over hillary clinton will be our 45th president it s all just entertainment at this point <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2593841308072233e-46 
+ Donald Trump: 1.4168179748765944e-46
+For tweet: <start> thanks very much for follow me strong together with hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 2.308863388093503e-18 
+ Donald Trump: 1.9505940082179084e-19
+For tweet: <start> wikileaks has also outed as colluding with hillary clinton campaign <end> 
+Probability of supporting 
+ Hillary Clinton: 5.572778693160463e-24 
+ Donald Trump: 2.822235683436263e-20
+For tweet: <start> the goal now is to drag hillary clinton down so if they don t win they can justify blocking her agenda these people are sick <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0142178329598102e-54 
+ Donald Trump: 2.3545547053169376e-56
+For tweet: <start> paula jones snaps at media re consent why don t you ask bill clinton why don t you ask hillary clinton applause from room <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4610100145686809e-52 
+ Donald Trump: 1.3244853545256677e-41
+For tweet: <start> in yet another criminal act and her cronies destroyed e mails that were under congressional subpoena <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1554470496763883e-36 
+ Donald Trump: 3.8851781585264833e-28
+For tweet: <start> hillary clinton shipped weapons from benghazi to syria to help al qaeda <end> 
+Probability of supporting 
+ Hillary Clinton: 9.323816245153834e-33 
+ Donald Trump: 5.628750583754e-26
+For tweet: <start> retweeted tennessee gop the vast majority of americans consider hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 3.5057934839430963e-28 
+ Donald Trump: 4.458040484546115e-17
+For tweet: <start> hillary clinton is a racist <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8019719858020068e-09 
+ Donald Trump: 3.6733080128743e-10
+For tweet: <start> rockefeller initiative hillary clinton john podesta on the road to disclosure via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1335861931349353e-24 
+ Donald Trump: 9.601829609960301e-30
+For tweet: <start> bill clinton raped and sexually assaulted women and hillary clinton made it her goal to destroy the women who were victims of his behavior <end> 
+Probability of supporting 
+ Hillary Clinton: 7.772220305244815e-51 
+ Donald Trump: 2.6611250015721727e-44
+For tweet: <start> infographic donald trump vs hillary clinton on the truth o meter <end> 
+Probability of supporting 
+ Hillary Clinton: 5.137230166496166e-24 
+ Donald Trump: 4.817624554234374e-26
+For tweet: <start> i liked a video donald trump vs hillary clinton debate cold open snl <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0663483104905664e-26 
+ Donald Trump: 8.104313783304744e-29
+For tweet: <start> hillary clinton accidentally admitted that the cfr runs this nation wow via <end> 
+Probability of supporting 
+ Hillary Clinton: 7.401298638766353e-29 
+ Donald Trump: 1.2713256040731876e-25
+For tweet: <start> national news donald trump and hillary clinton face voters in 2nd presidential debate <end> 
+Probability of supporting 
+ Hillary Clinton: 2.0897951906739335e-20 
+ Donald Trump: 1.4867139306332025e-21
+For tweet: <start> traitor hillary clinton evil is as evil does the queen of evil <end> 
+Probability of supporting 
+ Hillary Clinton: 8.960501985967348e-26 
+ Donald Trump: 2.0398195851039924e-22
+For tweet: <start> live stream donald trump hillary clinton 2nd presidential debate at w via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.44678069776696e-17 
+ Donald Trump: 1.929425862412175e-17
+For tweet: <start> syria no fly zone would mean killing a lot of syrians warned hillary clinton in by via <end> 
+Probability of supporting 
+ Hillary Clinton: 8.474305797989203e-36 
+ Donald Trump: 2.12493809717008e-40
+For tweet: <start> retweeted deplorable trumpcat enabling hillary clinton her hostile media protect rapist <end> 
+Probability of supporting 
+ Hillary Clinton: 8.186506937607757e-26 
+ Donald Trump: 8.274976147325604e-29
+For tweet: <start> juanita broaddrick s affidavit that destroys trump s attack on hillary clinton trump had to have paid these women <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1684747645500716e-45 
+ Donald Trump: 1.1522862735310526e-32
+For tweet: <start> perhaps grudem should learn from his misjudgment on trump and not fire off a list of breitbart inspired charges about hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 4.821040856194665e-56 
+ Donald Trump: 1.696144426264041e-50
+For tweet: <start> best reading for us presidential tonight 80 pages of hillary clinton s by via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4612498923519642e-29 
+ Donald Trump: 2.2866872261705917e-26
+For tweet: <start> donald trump brought a woman to that table who was mad hillary clinton was a defense attorney and won a case i m dead <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1042670635477665e-41 
+ Donald Trump: 1.8199443155640844e-47
+For tweet: <start> the goal has clearly shifted from winning the election to imposing maximum humiliation on hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 2.098612978776624e-43 
+ Donald Trump: 9.202883618233386e-45
+For tweet: <start> without the media hillary clinton couldn t be elected dog catcher trump tells pennsylvania as crowd bellows cnn sucks <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3989612864187012e-37 
+ Donald Trump: 7.492331816676176e-35
+For tweet: <start> posting this again for all the media hacks who are busy today smearing a rape victim in defense of hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.585834316137234e-44 
+ Donald Trump: 9.992432377267599e-38
+For tweet: <start> in debate hillary clinton showed grace and poise throughout a disgusting ordeal via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.275194682480506e-31 
+ Donald Trump: 4.536433915423029e-36
+For tweet: <start> and yet hillary clinton derides citizens united <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8718226353144883e-18 
+ Donald Trump: 1.0477234590820597e-15
+For tweet: <start> uk politician nigel farage says donald trump looked like a silverback gorilla who dominated hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2334849215436889e-39 
+ Donald Trump: 3.661239830079737e-45
+For tweet: <start> breaking the record endorses hillary clinton for president of the united states <end> 
+Probability of supporting 
+ Hillary Clinton: 3.2925083956545167e-19 
+ Donald Trump: 2.351416843455409e-22
+For tweet: <start> the state department releases a new batch of hillary clinton emails <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2810549568418206e-24 
+ Donald Trump: 1.5885871264276628e-17
+For tweet: <start> why is hillary clinton urging her supporters to intimidate black people <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5191863723485325e-27 
+ Donald Trump: 1.7468781695027704e-27
+For tweet: <start> hillary clinton escorts black protester out insults him <end> 
+Probability of supporting 
+ Hillary Clinton: 9.209196031867621e-19 
+ Donald Trump: 6.145227636894384e-20
+For tweet: <start> i m not sure you ll see anything like that debate again at least i hope you won t hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.935583206555669e-32 
+ Donald Trump: 1.985472580735967e-33
+For tweet: <start> hillary clinton supporters shove bill clinton rape protester breitbart via <end> 
+Probability of supporting 
+ Hillary Clinton: 5.332149856960644e-24 
+ Donald Trump: 7.895389201107015e-21
+For tweet: <start> trump says to hillary clinton because you d be in jail <end> 
+Probability of supporting 
+ Hillary Clinton: 7.119843372437281e-21 
+ Donald Trump: 1.2938769936698556e-22
+For tweet: <start> hillary clinton calls blacks professional never do wells via <end> 
+Probability of supporting 
+ Hillary Clinton: 2.34879953313711e-19 
+ Donald Trump: 6.462743173623522e-16
+For tweet: <start> trump without the media hillary clinton couldn t be elected dogcatcher <end> 
+Probability of supporting 
+ Hillary Clinton: 9.987564130981536e-22 
+ Donald Trump: 5.09173986997084e-17
+For tweet: <start> wikileaks speech dump hillary clinton called it good news that china s xi will assert his authority breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 2.0885297565133703e-45 
+ Donald Trump: 5.327606219800273e-44
+For tweet: <start> hillary clinton has spent 164 110 on this take on 60 ad on energy environment issues <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4079770827749121e-33 
+ Donald Trump: 1.468991645081729e-35
+For tweet: <start> upi cvoter state polls hillary clinton has electoral college edge over donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.727966195734247e-24 
+ Donald Trump: 2.822251010858395e-29
+For tweet: <start> emails leaked from top hillary clinton insiders over the weekend by wikileaks revealed collusion between the georg <end> 
+Probability of supporting 
+ Hillary Clinton: 3.4018288523866753e-37 
+ Donald Trump: 3.079603186937064e-35
+For tweet: <start> with hillary clinton in the white house christians would be in a fight for civil survival the stream <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5947415908785975e-32 
+ Donald Trump: 3.997495314040056e-41
+For tweet: <start> i m posting this again for all media hacks who are busy today smearing a rape victim in defense of hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3054825191257637e-44 
+ Donald Trump: 8.796019882256136e-38
+For tweet: <start> leaked emails show tension and turmoil inside hillary clinton s inner circle <end> 
+Probability of supporting 
+ Hillary Clinton: 8.864011639559472e-33 
+ Donald Trump: 1.2397613055782965e-33
+For tweet: <start> eric holder slams donald trump s chilling debate threat to hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1363934342094374e-32 
+ Donald Trump: 1.3042448693792335e-30
+For tweet: <start> after crowd bursts into another round of cnn sucks trump says without the media hillary clinton couldn t be elected dogcatcher <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3552539020448254e-41 
+ Donald Trump: 2.169589068501048e-35
+For tweet: <start> alex jones revels in trump s annihilation of that cunt hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 2.7214915542461532e-39 
+ Donald Trump: 1.313997382373282e-37
+For tweet: <start> hillary clinton sued by parents of 2 americans killed in benghazi via <end> 
+Probability of supporting 
+ Hillary Clinton: 4.524617906649107e-25 
+ Donald Trump: 1.2731226259782847e-27
+For tweet: <start> watch hillary clinton whitehouse rampage screaming profanities <end> 
+Probability of supporting 
+ Hillary Clinton: 2.9873677421053832e-21 
+ Donald Trump: 6.723604013602279e-26
+For tweet: <start> dcexaminer michael moore hillary clinton debated like jesus christ <end> 
+Probability of supporting 
+ Hillary Clinton: 3.6172155999858076e-35 
+ Donald Trump: 3.9443890861188257e-25
+For tweet: <start> trump is wrong hillary clinton did not laugh about the rape of a 12 year old <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9950409934240522e-26 
+ Donald Trump: 2.0083707183184786e-26
+For tweet: <start> hillary clinton f ing jew bastard and other clinton quotes the clintons make trump seem like mother theresa <end> 
+Probability of supporting 
+ Hillary Clinton: 5.821620173715058e-45 
+ Donald Trump: 2.5373542922020784e-38
+For tweet: <start> trump just said without the media hillary clinton couldn t be elected dog catcher <end> 
+Probability of supporting 
+ Hillary Clinton: 6.592451571604976e-26 
+ Donald Trump: 1.4606507967697313e-25
+For tweet: <start> best of donald trump at the second presidential debate against hillary clinton youtube <end> 
+Probability of supporting 
+ Hillary Clinton: 5.895698847700187e-25 
+ Donald Trump: 1.06615716745377e-22
+For tweet: <start> v nra hillary clinton once said f k you to a veteran who was awarded <end> 
+Probability of supporting 
+ Hillary Clinton: 8.256596863146127e-35 
+ Donald Trump: 7.973568345049706e-28
+For tweet: <start> nra extremists ads repeat utterly false claims about hillary clinton s stance on gun law reform <end> 
+Probability of supporting 
+ Hillary Clinton: 2.7588339602959886e-38 
+ Donald Trump: 6.181420226650697e-33
+For tweet: <start> livingonchi it s sad to see people who are bernie sanders supporters happily equate him with hillary clinton or maybe it s all part of th <end> 
+Probability of supporting 
+ Hillary Clinton: 2.622063496640517e-53 
+ Donald Trump: 7.161225895705445e-48
+For tweet: <start> hillary clinton calls muslims sand niggers in newly released emails hypocrit racist muslims u gona take this <end> 
+Probability of supporting 
+ Hillary Clinton: 4.474161740421654e-28 
+ Donald Trump: 1.6358704730749457e-37
+For tweet: <start> voting trump hillary clinton i want a supreme court justice who will uphold unlimited abortion <end> 
+Probability of supporting 
+ Hillary Clinton: 5.118175540116827e-31 
+ Donald Trump: 3.9289249778596674e-29
+For tweet: <start> time to support hillary clinton more <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4260880093438186e-12 
+ Donald Trump: 7.632301575876087e-13
+For tweet: <start> trump just tried to blackmail hillary clinton into not releasing more damaging tapes via <end> 
+Probability of supporting 
+ Hillary Clinton: 4.788235895795754e-32 
+ Donald Trump: 2.6423287511246833e-33
+For tweet: <start> 112 reasons and counting hillary clinton should be our next president hillary for america <end> 
+Probability of supporting 
+ Hillary Clinton: 3.084266186964932e-29 
+ Donald Trump: 4.2318252966437166e-27
+For tweet: <start> chuck norris exposes a dark secret from hillary clinton s past whoa the political insider <end> 
+Probability of supporting 
+ Hillary Clinton: 2.421463787196385e-44 
+ Donald Trump: 1.1533986446826599e-29
+For tweet: <start> hillary clinton won the second presidential debate by stunning photo great <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3080036079777164e-24 
+ Donald Trump: 1.1129099047165098e-21
+For tweet: <start> joy behar relays what hillary said to her about bill s rape victims they are just tramps hillary clinton is on your side ladies <end> 
+Probability of supporting 
+ Hillary Clinton: 2.438220921730912e-49 
+ Donald Trump: 6.496614535043093e-55
+For tweet: <start> i d rather listen to a hillary clinton speech than to listen to today s rap music <end> 
+Probability of supporting 
+ Hillary Clinton: 2.7052462332053105e-30 
+ Donald Trump: 1.5209245807028966e-35
+For tweet: <start> here is juanita broaddrick s affidavit that destroys trump s attack on hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0587519550336238e-38 
+ Donald Trump: 8.69084901294875e-25
+For tweet: <start> young hillary clinton that s a yes <end> 
+Probability of supporting 
+ Hillary Clinton: 4.3441031840460536e-14 
+ Donald Trump: 5.057611607022148e-15
+For tweet: <start> they say scandal was based off a true story wonder if it was about hillary clinton and donald trump i swear these 2 used to date <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7300437541932719e-47 
+ Donald Trump: 8.521613227216365e-50
+For tweet: <start> candidate in race most like bush and cheney is hillary clinton says gop strategist via for peace <end> 
+Probability of supporting 
+ Hillary Clinton: 1.560162612336534e-37 
+ Donald Trump: 1.2000245541499855e-34
+For tweet: <start> leaked emails show tension and turmoil inside hillary clinton s inner circle <end> 
+Probability of supporting 
+ Hillary Clinton: 8.864011639559472e-33 
+ Donald Trump: 1.2397613055782965e-33
+For tweet: <start> new nation long war hillary clinton s state department gave south sudan s military a pass for its child soldiers <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1775804920924012e-42 
+ Donald Trump: 1.1617208564699253e-37
+For tweet: <start> maryland doctor who treated hillary clinton for blood clot on brain mysteriously dies usa newsflash <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2573578962147778e-49 
+ Donald Trump: 3.2302526404215805e-40
+For tweet: <start> fact check yes hillary clinton did laugh after successfully defending a child rapist breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 8.648591273701597e-23 
+ Donald Trump: 9.332196269731302e-28
+For tweet: <start> wikileaks shows team hillary struggled to think of a good email joke hillary clinton repeatedly struggled t <end> 
+Probability of supporting 
+ Hillary Clinton: 7.859830349009181e-34 
+ Donald Trump: 3.2457036091907942e-40
+For tweet: <start> i am still thinking about trump s threat to hillary clinton that he will instruct underline that word <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3122088179429725e-35 
+ Donald Trump: 4.7617638496573476e-37
+For tweet: <start> hillary clinton receives cnn debates question in advance against bernie sanders <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5032376481147382e-18 
+ Donald Trump: 3.202045268764046e-19
+For tweet: <start> hey listen we cannot vote for hillary clinton because women are not to have authority over men dave daubenmire <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2434462905506996e-39 
+ Donald Trump: 7.404477394566453e-41
+For tweet: <start> hillary clinton and donald trump are running for president clowns are attacking people and j cole hasn t released a new album we screwed <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5813168157905647e-42 
+ Donald Trump: 2.6779515936593865e-50
+For tweet: <start> wow town hall questions were given to crooked hillary clinton in advance of big debates against bernie sanders hillary cnn fraud <end> 
+Probability of supporting 
+ Hillary Clinton: 6.786959328417267e-40 
+ Donald Trump: 3.552750381151681e-35
+For tweet: <start> i hope people are looking at the disgraceful behavior of hillary clinton as exposed by wikileaks she is unfit to run <end> 
+Probability of supporting 
+ Hillary Clinton: 2.4541700480247125e-40 
+ Donald Trump: 2.3507601720647596e-37
+For tweet: <start> exclusive hillary clinton and donald trump weigh in on u s space policy <end> 
+Probability of supporting 
+ Hillary Clinton: 3.251249351824376e-25 
+ Donald Trump: 1.9299453994606536e-26
+For tweet: <start> crooked hillary clinton continues to lie about the state of the world <end> 
+Probability of supporting 
+ Hillary Clinton: 3.467658633647779e-24 
+ Donald Trump: 6.855449697983205e-21
+For tweet: <start> president obama highlights trump ally alex jones theory that he and hillary clinton are possessed by demons <end> 
+Probability of supporting 
+ Hillary Clinton: 6.7554387565349625e-53 
+ Donald Trump: 1.2310813078485005e-46
+For tweet: <start> state dept under hillary clinton gave special attention to friends of bill after haiti quake in 2010 <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0211669704844712e-31 
+ Donald Trump: 5.555440351881403e-38
+For tweet: <start> 1 h the clintons are celebrating their 41st wedding anniversary today amidst hillary clinton s campaign for <end> 
+Probability of supporting 
+ Hillary Clinton: 5.476705958307443e-48 
+ Donald Trump: 4.229103589856545e-49
+For tweet: <start> political cacophony falling on deaf ears pollster says what presidential candidates hillary clinton and don <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2556288507559435e-41 
+ Donald Trump: 9.549873711419778e-28
+For tweet: <start> i liked a video hillary clinton and donald trump singing the time of my life is hilarious <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3319454038462473e-32 
+ Donald Trump: 1.2228088765476416e-38
+For tweet: <start> al gore at clinton rally former vp al gore took center stage at a hillary clinton campaign rally in miami tu <end> 
+Probability of supporting 
+ Hillary Clinton: 3.865273532359177e-36 
+ Donald Trump: 1.9270913527403652e-32
+For tweet: <start> hillary clinton s vow to push supreme court left galvanizes conservatives wary of donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 7.515278259845341e-34 
+ Donald Trump: 3.868402239876993e-31
+For tweet: <start> hillary clinton has to owned up to her mistakes have you not watched the last two presidential debates <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2125867657156905e-32 
+ Donald Trump: 2.6796754458509707e-35
+For tweet: <start> hillary funded by the same governments as isis <end> 
+Probability of supporting 
+ Hillary Clinton: 1.698975135138917e-20 
+ Donald Trump: 6.244141721866917e-22
+For tweet: <start> huffpollster donald trump is lagging far behind hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.621370637602195e-22 
+ Donald Trump: 3.768269100508527e-23
+For tweet: <start> hillary clinton is very dangerous on foreign policy and would almost certainly start world war iii <end> 
+Probability of supporting 
+ Hillary Clinton: 2.901304293309085e-30 
+ Donald Trump: 8.980057101227633e-27
+For tweet: <start> hillary will go down faster than bill s pants funny hillary clinton anti hillary <end> 
+Probability of supporting 
+ Hillary Clinton: 3.512547801972439e-29 
+ Donald Trump: 6.010804574083669e-23
+For tweet: <start> youth center kids look really unexcited at prospect of voting for hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 4.537634847382862e-30 
+ Donald Trump: 6.246022015405895e-31
+For tweet: <start> thousands of hillary clinton emails went missing from fbi evidence room the real strategy <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1945916248627337e-24 
+ Donald Trump: 1.1550969476338047e-30
+For tweet: <start> behind closed doors hillary clinton sympathized with goldman sachs over financial reform by ddayen bernie was right <end> 
+Probability of supporting 
+ Hillary Clinton: 7.612074567422073e-41 
+ Donald Trump: 5.993946291732807e-50
+For tweet: <start> hillary clinton is desperate for millennial s votes more votes winning <end> 
+Probability of supporting 
+ Hillary Clinton: 4.650987955813038e-22 
+ Donald Trump: 1.6670971647116862e-23
+For tweet: <start> wikileaks hillary clinton is still against gay marriage breitbart via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.971673470755401e-18 
+ Donald Trump: 9.172713666181748e-22
+For tweet: <start> president obama highlights trump ally alex jones theory that he and hillary clinton are possessed by demons <end> 
+Probability of supporting 
+ Hillary Clinton: 6.7554387565349625e-53 
+ Donald Trump: 1.2310813078485005e-46
+For tweet: <start> wikileaks hillary clinton bragged about being invited to putin s inner sanctum <end> 
+Probability of supporting 
+ Hillary Clinton: 2.6803117470949945e-35 
+ Donald Trump: 6.337158827068464e-35
+For tweet: <start> hillary clinton urges florida voters not to elect climate change denier trump <end> 
+Probability of supporting 
+ Hillary Clinton: 7.622883037872993e-28 
+ Donald Trump: 8.530301393665331e-30
+For tweet: <start> hillary clinton is so corrupt that there really is no modern equal she should never be allowed to hold a position of power <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0772872532201909e-42 
+ Donald Trump: 1.42461309030921e-46
+For tweet: <start> fuck hillary clinton clinton wants to empty the banks fill our streets with banks and run a bank making operation out of her banks <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0100377981028631e-56 
+ Donald Trump: 1.0217342878651173e-61
+For tweet: <start> secret service officer gary j byrne the hillary clinton i know is a complete pathological liar via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5246073534705245e-37 
+ Donald Trump: 2.930128019248313e-35
+For tweet: <start> john fleming senator donald trump stands for securing our borders hillary clinton stands for open borders i stand with donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3666240934913573e-47 
+ Donald Trump: 1.032046304319922e-37
+For tweet: <start> wikileaks hillary clinton s campaign furious after daily mail reporter david martosko followed motorcade aww <end> 
+Probability of supporting 
+ Hillary Clinton: 2.203584016763883e-29 
+ Donald Trump: 7.554737984090313e-37
+For tweet: <start> early voting could point to hillary clinton victory well before nov 8 by jeremy w pete <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3305838429372007e-31 
+ Donald Trump: 5.903137943791541e-32
+For tweet: <start> wikileaks email the department of justice colluded with hillary clinton aides el trumpo is accusing <end> 
+Probability of supporting 
+ Hillary Clinton: 2.896582797204989e-45 
+ Donald Trump: 7.555029448957155e-39
+For tweet: <start> now donald trump is attacking republicans instead if hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9599789540271795e-19 
+ Donald Trump: 3.18657494792146e-16
+For tweet: <start> hillary clinton s world don t be a pa of this horror <end> 
+Probability of supporting 
+ Hillary Clinton: 8.391597129195546e-24 
+ Donald Trump: 1.272509200687573e-24
+For tweet: <start> wikileaks hillary clinton is privately against gays gay marriage <end> 
+Probability of supporting 
+ Hillary Clinton: 7.57466340283484e-21 
+ Donald Trump: 4.343690474379978e-25
+For tweet: <start> hillary clinton leads donald trump by 9 points poll finds the wall street journal yes because we trust you <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2461457186951613e-36 
+ Donald Trump: 1.6535019153541809e-31
+For tweet: <start> george h w bush s granddaughter is voting for hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 4.4620984704927006e-21 
+ Donald Trump: 1.1166626492722226e-25
+For tweet: <start> did hillary clinton intimidate bill s accusers let s look at the evidence jill abramson <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2670195312918377e-29 
+ Donald Trump: 2.038959167749688e-31
+For tweet: <start> hillary clinton regards vetting refugees as impossible according to email released by wikileaks <end> 
+Probability of supporting 
+ Hillary Clinton: 5.3690247124448996e-33 
+ Donald Trump: 1.014940297889185e-22
+For tweet: <start> hillary clinton is so nasty to the secret service that they consider it punishment to be assigned to her <end> 
+Probability of supporting 
+ Hillary Clinton: 2.5072221814124393e-42 
+ Donald Trump: 4.347450390567058e-39
+For tweet: <start> hillary clinton should be in jail also collusion conspiracy by ryan chavetz romney lee mitchell what one would conclude <end> 
+Probability of supporting 
+ Hillary Clinton: 3.848628485350918e-43 
+ Donald Trump: 1.0557737752078604e-37
+For tweet: <start> 3 cartoons explaining how hillary clinton s new proposal helps the very poor vo <end> 
+Probability of supporting 
+ Hillary Clinton: 4.290157395453592e-32 
+ Donald Trump: 3.096192476215833e-33
+For tweet: <start> if any of you see this meme out there on your social media sadly melania did not rip off hillary clinton as <end> 
+Probability of supporting 
+ Hillary Clinton: 6.477090587200658e-34 
+ Donald Trump: 4.856058014544532e-45
+For tweet: <start> hillary clinton al gore campaign together in key battleground of miami <end> 
+Probability of supporting 
+ Hillary Clinton: 2.046063291306472e-20 
+ Donald Trump: 9.07785875289454e-17
+For tweet: <start> secret service officer gary j byrne the hillary clinton i know is a complete pathological liar via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5246073534705245e-37 
+ Donald Trump: 2.930128019248313e-35
+For tweet: <start> astroturf outrage machine of paid trolls floods social media to counteract negative news about hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 8.916692395167902e-40 
+ Donald Trump: 1.9336187592039457e-38
+For tweet: <start> hillary clinton has corrupted the department of state the department of by via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.794245863570297e-33 
+ Donald Trump: 8.108425426560324e-23
+For tweet: <start> early voting could point to hillary clinton victory well before nov 8 by jeremy w peters via nyt <end> 
+Probability of supporting 
+ Hillary Clinton: 2.398709276218914e-37 
+ Donald Trump: 4.685030114120271e-34
+For tweet: <start> hillary clinton s future actions will harm your daughter far more than donald trump s past words ever would <end> 
+Probability of supporting 
+ Hillary Clinton: 2.512273324828049e-31 
+ Donald Trump: 1.0673453416465107e-31
+For tweet: <start> most well thinking everyday republicans don t like donald trump and some will vote for him so that hillary clinton won t win <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4252730026389643e-36 
+ Donald Trump: 3.760922427185663e-36
+For tweet: <start> youth center kids look really unexcited at prospect of voting for hillary clinton hillary clinton stopped by <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5183053074455654e-35 
+ Donald Trump: 2.191836392131781e-37
+For tweet: <start> leaked emails reveal that hillary clinton had to be told when to smile during speeches via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3324429958442945e-23 
+ Donald Trump: 2.0230865608623395e-28
+For tweet: <start> new nation long war hillary clinton s state department gave south sudan s military a pass for its child soldiers <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1775804920924012e-42 
+ Donald Trump: 1.1617208564699253e-37
+For tweet: <start> wikileaks new york times is definitely colluding with hillary clinton campaign via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.7351930580124576e-21 
+ Donald Trump: 1.0892366760900193e-17
+For tweet: <start> leaked hillary clinton emails show u s allies saudi arabia and qatar supported isis <end> 
+Probability of supporting 
+ Hillary Clinton: 3.2277974092347053e-31 
+ Donald Trump: 5.409765765226401e-21
+For tweet: <start> wow cnn town hall questions were given to crooked hillary clinton in advance of big debates against bernie sander <end> 
+Probability of supporting 
+ Hillary Clinton: 9.046248535532723e-41 
+ Donald Trump: 1.1984999688519353e-35
+For tweet: <start> hillary clinton leads donald trump by 9 points poll finds the wall street journal <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8913700761003495e-29 
+ Donald Trump: 7.758626504499971e-25
+For tweet: <start> oops hillary clinton tells banks she is pro fracking bernie sanders voters heads are exploding <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3241236887839055e-34 
+ Donald Trump: 2.445877258283262e-36
+For tweet: <start> whistleblower claims hillary clinton been sick for years <end> 
+Probability of supporting 
+ Hillary Clinton: 5.595924375391926e-18 
+ Donald Trump: 2.0338788342795383e-19
+For tweet: <start> picking between hillary clinton and donald trump is like whether you want to drown or burn to death as long as i die who cares <end> 
+Probability of supporting 
+ Hillary Clinton: 4.0081723916000202e-53 
+ Donald Trump: 7.066724031960352e-48
+For tweet: <start> wikileaks hillary clinton says vetting refugees is impossible cold war radio live 8pm join us <end> 
+Probability of supporting 
+ Hillary Clinton: 9.191749351420909e-31 
+ Donald Trump: 7.961708636959642e-27
+For tweet: <start> hillary clinton campaigns with al gore blames hurricane matthew on climate change breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 1.725922684494711e-30 
+ Donald Trump: 1.0439395797813595e-23
+For tweet: <start> hillary clinton is candidate of the she is will continue2kill americans in <end> 
+Probability of supporting 
+ Hillary Clinton: 9.361831690842174e-26 
+ Donald Trump: 5.05973072282112e-27
+For tweet: <start> so we now officially replacing the word scared with hillary clinton ok dave good luck <end> 
+Probability of supporting 
+ Hillary Clinton: 5.617449669011392e-35 
+ Donald Trump: 1.901093707859092e-30
+For tweet: <start> i liked a video please don t vote for hillary clinton just because she s a woman watch this first <end> 
+Probability of supporting 
+ Hillary Clinton: 8.996790740033431e-34 
+ Donald Trump: 8.324624289511784e-36
+For tweet: <start> donna b of gave inside info to hillary clinton undermining bernie sanders i will say it again that network needs to be investigated <end> 
+Probability of supporting 
+ Hillary Clinton: 3.1154560733016457e-40 
+ Donald Trump: 2.1417454148786713e-42
+For tweet: <start> facebook just told me that i look like hillary clinton i just don t know what to do with myself right now <end> 
+Probability of supporting 
+ Hillary Clinton: 8.321262819306225e-40 
+ Donald Trump: 2.503572423938877e-39
+For tweet: <start> obama department of injustice drops case against arms dealer to protect hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 8.113210223295634e-38 
+ Donald Trump: 4.976858374519754e-32
+For tweet: <start> i side 93 with hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1171776854546764e-13 
+ Donald Trump: 1.9113496602850487e-14
+For tweet: <start> report video of hillary clinton demeaning and disparaging blacks to be released <end> 
+Probability of supporting 
+ Hillary Clinton: 4.8455092284792477e-23 
+ Donald Trump: 2.676421268982277e-19
+For tweet: <start> glenn beck just endorsed hillary clinton proving we are living in an alternate universe via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.209900336530424e-27 
+ Donald Trump: 9.210165681339735e-33
+For tweet: <start> trump supporters are threatening to overthrow the government if hillary clinton wins <end> 
+Probability of supporting 
+ Hillary Clinton: 6.821284313811011e-25 
+ Donald Trump: 3.6789449051327942e-28
+For tweet: <start> if a history book will mention hillary clinton s name the word honest will be in another book <end> 
+Probability of supporting 
+ Hillary Clinton: 5.706476435190479e-40 
+ Donald Trump: 5.791132001968216e-30
+For tweet: <start> paid trolls floods social media to counteract negative news about hillary clinton the stream <end> 
+Probability of supporting 
+ Hillary Clinton: 5.145460112959565e-36 
+ Donald Trump: 4.737461495270041e-34
+For tweet: <start> glenn beck just endorsed hillary clinton proving we are living in an alternate universe <end> 
+Probability of supporting 
+ Hillary Clinton: 1.666973796997473e-27 
+ Donald Trump: 1.1377263488713791e-32
+For tweet: <start> sierraclub justinworland al gore and hillary clinton bring climate change message to the issue s frontline vi <end> 
+Probability of supporting 
+ Hillary Clinton: 2.8131920913514582e-42 
+ Donald Trump: 2.435963845894073e-44
+For tweet: <start> this 3 minute video of hillary clinton may cost her the election spread this now <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8809223602469078e-24 
+ Donald Trump: 7.90746791201416e-30
+For tweet: <start> leaked emails reveal hillary clinton hates the phrase everyday americans via everyday deplorable wow <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0410247061109056e-23 
+ Donald Trump: 4.557703460982575e-26
+For tweet: <start> secret service officer the hillary clinton i know is a complete pathological liar <end> 
+Probability of supporting 
+ Hillary Clinton: 2.352113404689209e-31 
+ Donald Trump: 1.0055211354175549e-24
+For tweet: <start> hillary clinton s pollster opposition to tpp trade deal need politically breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1675668801276302e-38 
+ Donald Trump: 4.218380013378256e-25
+For tweet: <start> wikileaks emails hillary clinton campaign shows contempt for cath via <end> 
+Probability of supporting 
+ Hillary Clinton: 2.8928550697110937e-23 
+ Donald Trump: 4.026022593476412e-23
+For tweet: <start> revealed hillary clinton is relying on ignorant black voters to win agree with her <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3692994098374383e-29 
+ Donald Trump: 1.1894447320106276e-30
+For tweet: <start> president obama speech today 10 11 16 campaigns for hillary clinton in greensboro nc please subscribe <end> 
+Probability of supporting 
+ Hillary Clinton: 3.229332540626675e-25 
+ Donald Trump: 4.185018078493493e-36
+For tweet: <start> wants you to choose a borderless world where working people have no power no jobs and no safety <end> 
+Probability of supporting 
+ Hillary Clinton: 8.750484443078237e-38 
+ Donald Trump: 2.5732125694182837e-36
+For tweet: <start> is glenn beck voting for hillary clinton pundit weighs in on donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 2.6378853859115384e-21 
+ Donald Trump: 2.4506027831924964e-34
+For tweet: <start> when hillary clinton enables bills rape womanizing culture for his entire adult life that s an important mindset <end> 
+Probability of supporting 
+ Hillary Clinton: 5.7847961674605516e-39 
+ Donald Trump: 2.1195658330453894e-44
+For tweet: <start> leaked hillary clinton emails show u s allies saudi arabia and qatar supported isis excellent reporting by salon <end> 
+Probability of supporting 
+ Hillary Clinton: 5.472639155132972e-43 
+ Donald Trump: 2.3040392669260663e-36
+For tweet: <start> trump economic advisor on clinton s tax plan trump senior economic advisor steve calk argues hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 7.149792004576496e-49 
+ Donald Trump: 3.374385505674719e-38
+For tweet: <start> washington post how michelle obama talks to voters in a way hillary clinton can t <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1654841453749604e-24 
+ Donald Trump: 6.418554810407938e-26
+For tweet: <start> wikileaks reveals what two words hillary clinton hates more than anything <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0997401267351595e-16 
+ Donald Trump: 3.658291860952464e-18
+For tweet: <start> yoko ono i had an affair with hillary clinton in the 70s via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2114485125045158e-35 
+ Donald Trump: 1.0517747059837993e-36
+For tweet: <start> we are mormons for hillary hillary clinton youtube <end> 
+Probability of supporting 
+ Hillary Clinton: 8.298504472315381e-17 
+ Donald Trump: 2.013298622262126e-18
+For tweet: <start> hillary haters few us presidential candidates have been disliked as much as donald trump and hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 4.107735944476984e-29 
+ Donald Trump: 6.110640720590765e-34
+For tweet: <start> pay attention please on tuesday hillary clinton unveiled what is arguably among the most important policies <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7632384584437497e-35 
+ Donald Trump: 3.591790126213784e-32
+For tweet: <start> sexual assault victims of bill and hillary clinton finally speak out pay attention dc gazette <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8177578548147733e-25 
+ Donald Trump: 5.199525859592251e-27
+For tweet: <start> al gore and hillary clinton bring climate change message to the issue s frontlines time <end> 
+Probability of supporting 
+ Hillary Clinton: 3.5108322472222756e-30 
+ Donald Trump: 8.929770328465622e-32
+For tweet: <start> hillary clinton campaigns with al gore blames hurricane matthew on climate change breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 1.725922684494711e-30 
+ Donald Trump: 1.0439395797813595e-23
+For tweet: <start> wikileaks hillary clinton bragged about being invited to putin s inner sanctum breitbart news <end> 
+Probability of supporting 
+ Hillary Clinton: 7.978899299233443e-41 
+ Donald Trump: 1.456818121165164e-36
+For tweet: <start> that figures but not suprizing considering the sorce it is time to an end to all this and put hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.865477496217263e-51 
+ Donald Trump: 4.354005293168482e-55
+For tweet: <start> livingonchi pursuewit hillary clinton s public and private positions on corporate tax rate via youtube <end> 
+Probability of supporting 
+ Hillary Clinton: 3.421809563157816e-40 
+ Donald Trump: 5.620450239810241e-38
+For tweet: <start> livingonchi letmadnessbegin 10 11 16 hillary clinton s public and private positions on corpora <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1977684942056295e-35 
+ Donald Trump: 2.360589100720301e-37
+For tweet: <start> the incestuous relationship between mainstream media hillary clinton via donald trump doesn t have a chance <end> 
+Probability of supporting 
+ Hillary Clinton: 1.607489665747876e-29 
+ Donald Trump: 5.545189554552864e-30
+For tweet: <start> samantha bee slams crotch fondling trump for faulting hillary clinton for her husband s infidelities <end> 
+Probability of supporting 
+ Hillary Clinton: 3.005659581493181e-40 
+ Donald Trump: 3.435602303551867e-50
+For tweet: <start> huffpollster donald trump is lagging far behind hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.621370637602195e-22 
+ Donald Trump: 3.768269100508527e-23
+For tweet: <start> hillary clinton s pollster opposition to tpp trade deal need politically breitbart <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1675668801276302e-38 
+ Donald Trump: 4.218380013378256e-25
+For tweet: <start> 59 people i follow follow donald trump and 99 follow hillary clinton i m not shocked at the difference <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9030116779061948e-33 
+ Donald Trump: 3.191754263650687e-41
+For tweet: <start> understanding donald trump and hillary clinton s tax plans <end> 
+Probability of supporting 
+ Hillary Clinton: 1.149292298656914e-19 
+ Donald Trump: 8.16001384009837e-20
+For tweet: <start> the facts about hillary clinton and the kathy shelton rape case the truth always stands trump wants to make a case <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0874921304097805e-40 
+ Donald Trump: 6.390609454455304e-34
+For tweet: <start> donald trump trails hillary clinton among likely voters in new opinion poll <end> 
+Probability of supporting 
+ Hillary Clinton: 9.770389094441017e-29 
+ Donald Trump: 1.0898488658577487e-21
+For tweet: <start> muslim brotherhood skeletons remain in hillary clinton s closet <end> 
+Probability of supporting 
+ Hillary Clinton: 4.2274892921720063e-26 
+ Donald Trump: 4.67091652887218e-22
+For tweet: <start> say what now trump surrogate tries to discredit hillary clinton by using beyonc <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3778494100135347e-37 
+ Donald Trump: 3.3704513841619604e-34
+For tweet: <start> hillary clinton is the biggest fraud trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.172612760404563e-11 
+ Donald Trump: 8.799501430978771e-12
+For tweet: <start> donald trump tax plan would add to debt and hillary clinton s wouldn t study finds <end> 
+Probability of supporting 
+ Hillary Clinton: 3.5495586786752915e-28 
+ Donald Trump: 2.0572797110342762e-33
+For tweet: <start> wikileaks dump shows hillary clinton calling muslims sandniggers odd she states something else <end> 
+Probability of supporting 
+ Hillary Clinton: 5.70209530475372e-25 
+ Donald Trump: 4.843311035478844e-25
+For tweet: <start> why hillary clinton s health incident isn t going away <end> 
+Probability of supporting 
+ Hillary Clinton: 1.280524781650052e-19 
+ Donald Trump: 4.278766266214851e-16
+For tweet: <start> hillary clinton faints and leaves early stumbling 9 11 16 <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1451703585888256e-24 
+ Donald Trump: 6.222723876683686e-13
+For tweet: <start> leaked emails reveal that hillary clinton had to be told when to smile during speeches via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3324429958442945e-23 
+ Donald Trump: 2.0230865608623395e-28
+For tweet: <start> early voting could point to hillary clinton victory well before nov 8 by jeremy w peters via nyt <end> 
+Probability of supporting 
+ Hillary Clinton: 2.398709276218914e-37 
+ Donald Trump: 4.685030114120271e-34
+For tweet: <start> you never see any positive news about ai do you they get a bad rap the robots what about the good guys like wall e r2d2 hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.342061256830448e-58 
+ Donald Trump: 1.509131566386128e-59
+For tweet: <start> donald trump holds press conference with bill clinton s rape victims sick hillary the queen of cover ups silenced them <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2078442794314163e-39 
+ Donald Trump: 8.653958992414143e-40
+For tweet: <start> my fellow americans please don t vote for donald trump you are better than this <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0382222583268142e-22 
+ Donald Trump: 2.4957652713018485e-24
+For tweet: <start> breaking donald trump appears with bill clinton s rape victims before <end> 
+Probability of supporting 
+ Hillary Clinton: 6.394732030111087e-21 
+ Donald Trump: 1.4862395983241566e-16
+For tweet: <start> watch alec baldwin mock donald trump over groping comments on snl <end> 
+Probability of supporting 
+ Hillary Clinton: 9.164708878942351e-31 
+ Donald Trump: 5.823367625682063e-28
+For tweet: <start> donald trump gop donald trump gop donald trump gop donald trump gop donald trump gop grab them by the pussy <end> 
+Probability of supporting 
+ Hillary Clinton: 2.5870232835741e-31 
+ Donald Trump: 2.3196516430417642e-32
+For tweet: <start> donald trumps appears with women who have accused bill clinton of sexual misconduct donald trump appeared wi <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0319968651275849e-39 
+ Donald Trump: 2.8079622673147322e-40
+For tweet: <start> ahead of us presidential debate donald trump appears with women who accuse bill clinton of sexual assault <end> 
+Probability of supporting 
+ Hillary Clinton: 7.043921491115949e-33 
+ Donald Trump: 9.107134444166944e-27
+For tweet: <start> donald trump concludes his debate prep by appearing with bill clinton accusers <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1117853140515058e-25 
+ Donald Trump: 5.707799403199523e-26
+For tweet: <start> are we not going to talk about how ivana trump swore under oath in a 1989 deposition that donald trump violently raped her <end> 
+Probability of supporting 
+ Hillary Clinton: 9.656492096049841e-58 
+ Donald Trump: 3.1022101092278703e-55
+For tweet: <start> retweetðÿ ª if you agree donald trump is the best choice for president of the united states <end> 
+Probability of supporting 
+ Hillary Clinton: 1.610804312237901e-31 
+ Donald Trump: 5.288856875552727e-31
+For tweet: <start> donald trump s pre press conference with rape and sexual assault victims of bill clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3505945169226055e-20 
+ Donald Trump: 1.5029654434479724e-29
+For tweet: <start> trump hosts surprise panel with bill clinton s accusers donald trump held a surprise <end> 
+Probability of supporting 
+ Hillary Clinton: 3.0917318437281642e-24 
+ Donald Trump: 1.169747095576815e-24
+For tweet: <start> a christian minister outside trump tower tells us he thinks god has started to change donald trump for the better <end> 
+Probability of supporting 
+ Hillary Clinton: 7.503134226381657e-39 
+ Donald Trump: 3.151892360378661e-39
+For tweet: <start> donald trump and his companies have been accused of mistreating women in at least 20 separate lawsuits <end> 
+Probability of supporting 
+ Hillary Clinton: 2.406293109457186e-36 
+ Donald Trump: 2.050079610491249e-37
+For tweet: <start> donald trump in 1999 hillary clinton has been through more than any woman should have to bear <end> 
+Probability of supporting 
+ Hillary Clinton: 8.373455889167957e-33 
+ Donald Trump: 3.399018942629744e-34
+For tweet: <start> donald trump joined by bill clinton rape victims for debate prep video realclearpolitics <end> 
+Probability of supporting 
+ Hillary Clinton: 2.6903608274831888e-31 
+ Donald Trump: 4.6462032676613096e-23
+For tweet: <start> easy halloween costume hack joke about sexually assaulting women and bam you re a dead ringer for donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 4.485232077350202e-40 
+ Donald Trump: 2.378111880046829e-41
+For tweet: <start> ugh donald trump is not actually funny i don t even know what i am doing with this stupid account anymore i feel bad i m sorry <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2387753102069506e-41 
+ Donald Trump: 3.011622234906571e-39
+For tweet: <start> new poll shows hillary clinton opening up double digit lead over donald trump in battleground state of pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5192252638036314e-33 
+ Donald Trump: 2.4604673410937335e-35
+For tweet: <start> donald trump supporters now say they will refuse to vote gop down the ballot and there i was all this time thinking there is no god <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5508701558208102e-43 
+ Donald Trump: 2.0187468829974173e-46
+For tweet: <start> donald trump concludes his debate prep by appearing with bill clinton accusers <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1117853140515058e-25 
+ Donald Trump: 5.707799403199523e-26
+For tweet: <start> breaking donald trump appears with bill clinton s rape victims before <end> 
+Probability of supporting 
+ Hillary Clinton: 6.394732030111087e-21 
+ Donald Trump: 1.4862395983241566e-16
+For tweet: <start> donald trump is going to initiate a scorched earth campaign this is not going to be pretty but the outcome of trump not president is good <end> 
+Probability of supporting 
+ Hillary Clinton: 5.814211126302673e-54 
+ Donald Trump: 9.740923750777147e-50
+For tweet: <start> there is simply no end to the contempt that donald trump has for the united states of america and everyone in it <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5825752289895737e-45 
+ Donald Trump: 7.907636770241176e-42
+For tweet: <start> donald trump in 1999 hillary clinton has been through more than any woman should have to bear <end> 
+Probability of supporting 
+ Hillary Clinton: 8.373455889167957e-33 
+ Donald Trump: 3.399018942629744e-34
+For tweet: <start> ive said it before to the gop this is the donald trump i have known since 1987 and it will only get worse <end> 
+Probability of supporting 
+ Hillary Clinton: 2.517409568717732e-45 
+ Donald Trump: 3.644173526336381e-46
+For tweet: <start> trump hosts surprise panel with bill clinton s accusers donald trump held a surprise <end> 
+Probability of supporting 
+ Hillary Clinton: 3.0917318437281642e-24 
+ Donald Trump: 1.169747095576815e-24
+For tweet: <start> hillary clinton gains double digit lead over donald trump in pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 2.79956189335362e-22 
+ Donald Trump: 5.17414389700821e-24
+For tweet: <start> months ago donald trump s people warned him not to use this clinton accusers angle here he is reveling in it <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2938671928877397e-29 
+ Donald Trump: 3.918616933181811e-43
+For tweet: <start> the first set of questions in tonight s debate will be about donald trump s vulgar comments from 2005 <end> 
+Probability of supporting 
+ Hillary Clinton: 4.736893104251678e-35 
+ Donald Trump: 4.532461122242158e-35
+For tweet: <start> you know that the one thing rosie o donnell and donald trump agree on is grabbing them by the p y <end> 
+Probability of supporting 
+ Hillary Clinton: 7.207454964669506e-33 
+ Donald Trump: 2.2179902049754495e-42
+For tweet: <start> breaking donald trump holds press conference with women who accused former president bill clinton of sexual misconduct <end> 
+Probability of supporting 
+ Hillary Clinton: 3.141517551971446e-31 
+ Donald Trump: 4.502780205337043e-40
+For tweet: <start> donald trump could kill someone and y all would be like but hillary s emails though <end> 
+Probability of supporting 
+ Hillary Clinton: 9.83624850371155e-27 
+ Donald Trump: 5.455892539065435e-30
+For tweet: <start> donald trump and the republican party has turned our democracy into a reality tv show sad day for america <end> 
+Probability of supporting 
+ Hillary Clinton: 4.16556777456215e-32 
+ Donald Trump: 2.893762694136976e-28
+For tweet: <start> donald trump holds media event with bill clinton s accusers in an extraordinary unscheduled event just 90 mi <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1434785674645762e-39 
+ Donald Trump: 4.4407764528377854e-41
+For tweet: <start> breaking before presidential debate donald trump appears with women who have accused bill clinton of rape unwanted advances <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0097734988479645e-33 
+ Donald Trump: 2.9034646278415814e-39
+For tweet: <start> some are uneducated others are ignorant but only a select few are truly horrible donald trump was is and forever will be one of the few <end> 
+Probability of supporting 
+ Hillary Clinton: 6.273078726855965e-46 
+ Donald Trump: 1.5137799508695244e-53
+For tweet: <start> the only thing donald trump can do is try and use distracting tactics because he knows nothing about politics <end> 
+Probability of supporting 
+ Hillary Clinton: 2.378823869869818e-33 
+ Donald Trump: 2.5390477939627474e-37
+For tweet: <start> they will also be at the debate ó¾œ ó¾œ donald trump i have to say this election is showing people s true colors <end> 
+Probability of supporting 
+ Hillary Clinton: 5.873925751218306e-51 
+ Donald Trump: 3.914044716170544e-45
+For tweet: <start> robe de niro sings and rips into donald trump autotune by and myself <end> 
+Probability of supporting 
+ Hillary Clinton: 3.448983021989602e-38 
+ Donald Trump: 4.961055334685577e-47
+For tweet: <start> republican party you guys are toast this is an new low donald trump must go he is taring up you guys party <end> 
+Probability of supporting 
+ Hillary Clinton: 4.598846971455798e-43 
+ Donald Trump: 1.4855063425045491e-43
+For tweet: <start> donald trump vows retaliation as republicans abandon him photo donald j trump addressing a rally in pueblo <end> 
+Probability of supporting 
+ Hillary Clinton: 4.9610584067041244e-36 
+ Donald Trump: 2.5529959985517788e-43
+For tweet: <start> donald trump meeting with bill clinton rape accusers shows how scared he is of confronting his own character <end> 
+Probability of supporting 
+ Hillary Clinton: 2.6900629564291473e-34 
+ Donald Trump: 2.190135572474801e-34
+For tweet: <start> days of our lives arianne zucker releases assertion on donald trump s leaked audio <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2566263068126899e-30 
+ Donald Trump: 2.4821602133309824e-36
+For tweet: <start> electing donald trump to fix america would be like fixing eczema with a blowtorch <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1735712242696632e-33 
+ Donald Trump: 7.781481672863385e-35
+For tweet: <start> new poll shows hillary clinton opening up double digit lead over donald trump in battleground state of pennsylvania <end> 
+Probability of supporting 
+ Hillary Clinton: 4.5192252638036314e-33 
+ Donald Trump: 2.4604673410937335e-35
+For tweet: <start> here s a list of bogus claims by donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 2.315517428142011e-19 
+ Donald Trump: 4.975785380157994e-20
+For tweet: <start> the time donald trump tried to get mike tyson out of going to prison for rape mother jones <end> 
+Probability of supporting 
+ Hillary Clinton: 1.094744121692611e-33 
+ Donald Trump: 1.9449607327867833e-31
+For tweet: <start> how are people connecting benghazi with the things donald trump said am i missing a logic step <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1660933779488615e-42 
+ Donald Trump: 3.258494067409602e-36
+For tweet: <start> nancy pelosi just now to cnn s erin burnett these members of congress can run from donald trump but they cannot hide <end> 
+Probability of supporting 
+ Hillary Clinton: 1.6033243852722744e-49 
+ Donald Trump: 6.403399906955419e-52
+For tweet: <start> donald trump is for the boys <end> 
+Probability of supporting 
+ Hillary Clinton: 9.203130962609526e-12 
+ Donald Trump: 2.086960951815649e-12
+For tweet: <start> tonight we gather for the funeral of donald trump s campaign <end> 
+Probability of supporting 
+ Hillary Clinton: 3.501670515829971e-27 
+ Donald Trump: 8.872351240255322e-25
+For tweet: <start> in a stunning reversal theologian pulls back support from donald trump washington post <end> 
+Probability of supporting 
+ Hillary Clinton: 4.352919317130744e-34 
+ Donald Trump: 2.034472817882541e-31
+For tweet: <start> debate drinking game take a drink every time donald trump refers to the mainstream media <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2001809330413271e-29 
+ Donald Trump: 3.3856168241362436e-27
+For tweet: <start> dear donald trump not all black people live in inner cities <end> 
+Probability of supporting 
+ Hillary Clinton: 4.1615101982969776e-22 
+ Donald Trump: 2.365987702414419e-27
+For tweet: <start> i added a video to a playlist full speech donald trump holds rally in ambridge pa 10 10 16 <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1180466151600264e-41 
+ Donald Trump: 6.951122190590889e-40
+For tweet: <start> dear donald trump some gentlemanly advice <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3822215373207298e-17 
+ Donald Trump: 8.477521553019269e-14
+For tweet: <start> i hate donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7337959151629213e-07 
+ Donald Trump: 1.1652361081462762e-06
+For tweet: <start> i think i speak for nearly every other mayor in the us keep donald trump away from my inner city he knows nothing can fix nothing <end> 
+Probability of supporting 
+ Hillary Clinton: 6.188618963076331e-53 
+ Donald Trump: 1.48129136168399e-44
+For tweet: <start> warren buffett stuffs donald trump s tax lies right back in his orange tinted face <end> 
+Probability of supporting 
+ Hillary Clinton: 7.316703057851411e-29 
+ Donald Trump: 6.780384167319453e-38
+For tweet: <start> donald trump in 2010 this is my boardroom it s not a locker room maria you re fired <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3847257815279395e-37 
+ Donald Trump: 4.3266254090875e-29
+For tweet: <start> look sociopath donald trump s weird physical aggression does not look less weird or aggressive the morning after <end> 
+Probability of supporting 
+ Hillary Clinton: 8.910969349930154e-44 
+ Donald Trump: 1.3269874025087626e-48
+For tweet: <start> look i know this is going to cause a lot of controversy but i m just going to say it i don t think donald trump is a very nice man <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0112567044489913e-49 
+ Donald Trump: 2.8688715420930804e-47
+For tweet: <start> uk politician nigel farage says donald trump looked like a silverback gorilla who dominated hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2334849215436889e-39 
+ Donald Trump: 3.661239830079737e-45
+For tweet: <start> one day donald trump is going to look a reporter straight in the eyes on national tv and say i never ran for president <end> 
+Probability of supporting 
+ Hillary Clinton: 3.768591225144738e-37 
+ Donald Trump: 4.907022980277849e-41
+For tweet: <start> donald trump knew the russians were behind dnc hacks even before the first debate <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2788406163774945e-27 
+ Donald Trump: 3.2942226405209334e-22
+For tweet: <start> please please please donald trump keep pounding home the fact that you are gonna change the dishonest criminal justice system <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3781520744456314e-32 
+ Donald Trump: 1.3953663612032107e-34
+For tweet: <start> donald trump showed himself once again to be a rambling swaggering bully <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4733440649152457e-24 
+ Donald Trump: 8.162687427742615e-21
+For tweet: <start> donald trump harambe and harry potter walk into a bar everyone at the bar is pissed cuz they re wearing the same thing it s halloween <end> 
+Probability of supporting 
+ Hillary Clinton: 3.414764620052633e-51 
+ Donald Trump: 2.0439368828033916e-49
+For tweet: <start> dear donald trump i played in the nfl here s what we really talk about in the locker room via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.522763765430757e-37 
+ Donald Trump: 1.2635626117539648e-34
+For tweet: <start> is donald trump a genius tax avoider via <end> 
+Probability of supporting 
+ Hillary Clinton: 6.147069689142478e-21 
+ Donald Trump: 4.617162798000032e-17
+For tweet: <start> donald trump s plan for combatting islamophobia is totally islamophobic <end> 
+Probability of supporting 
+ Hillary Clinton: 6.755012135895786e-23 
+ Donald Trump: 2.912640148111771e-28
+For tweet: <start> donald trump once advised bill cosby how to handle assault allegations via <end> 
+Probability of supporting 
+ Hillary Clinton: 5.1625019719476666e-27 
+ Donald Trump: 4.26810442833487e-24
+For tweet: <start> 27k live stream donald trump holds rally in wilkes barre pa 10 10 16 via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1975132171387274e-32 
+ Donald Trump: 5.849453723547249e-26
+For tweet: <start> death cab for cutie disses donald trump in new song million dollar loan via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.759723395595032e-32 
+ Donald Trump: 3.637424106243375e-34
+For tweet: <start> regular guy donald trump calls himself a blue collar worker at rally after the stress of a brutal presiden <end> 
+Probability of supporting 
+ Hillary Clinton: 9.181188274367436e-43 
+ Donald Trump: 2.4226618391415196e-52
+For tweet: <start> this woman was holding a trump pence sign in that exact moment fuck donald trump was playing and i rolled down my windows and blasted it <end> 
+Probability of supporting 
+ Hillary Clinton: 2.435465274143369e-55 
+ Donald Trump: 3.814779538886586e-51
+For tweet: <start> donald trump on that powder <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7746855940871992e-14 
+ Donald Trump: 2.544274175576012e-14
+For tweet: <start> ben carson you have been a very great person for anybody have on their team donald trump is proud <end> 
+Probability of supporting 
+ Hillary Clinton: 9.80774937687134e-30 
+ Donald Trump: 3.320892587960806e-35
+For tweet: <start> i liked a video from the truth about the donald trump controversy <end> 
+Probability of supporting 
+ Hillary Clinton: 7.246986546955512e-28 
+ Donald Trump: 1.0162992095106938e-24
+For tweet: <start> upi cvoter state polls hillary clinton has electoral college edge over donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.727966195734247e-24 
+ Donald Trump: 2.822251010858395e-29
+For tweet: <start> robert de niro and jon voight scramble by donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9251008114834665e-36 
+ Donald Trump: 7.578241566902504e-25
+For tweet: <start> i thought i was watching donald impersonating alec impersonating him donald trump barbarian at the debate <end> 
+Probability of supporting 
+ Hillary Clinton: 6.031827206945369e-37 
+ Donald Trump: 2.6282960342374664e-38
+For tweet: <start> why the rest of the world is laughing driver of donald trump truck that stopped traffic in pittston cited 500 <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9535758009949876e-48 
+ Donald Trump: 1.9939503910616278e-45
+For tweet: <start> donald trump gets called out on climate change by kids huffington post <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1507571287819445e-25 
+ Donald Trump: 5.600138564316729e-26
+For tweet: <start> paul ryan won t defend donald trump upsetting trump and g o p hard liners <end> 
+Probability of supporting 
+ Hillary Clinton: 6.3620180088318785e-31 
+ Donald Trump: 1.3499315830573845e-32
+For tweet: <start> geraldo says he has embarrassing video of donald trump go away and pimp your garbage elsewhere <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2884386285713815e-40 
+ Donald Trump: 1.105800382683595e-33
+For tweet: <start> indeed this problem is even bigger than donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 7.384623797537734e-20 
+ Donald Trump: 3.165535386178007e-20
+For tweet: <start> dear donald trump some gentlemanly advice dear donald i was delighted to hear your declarati <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4375767187312257e-37 
+ Donald Trump: 1.5952608151210795e-34
+For tweet: <start> donald trump is basically urging his white supporters to suppress the black vote in philadelphia at his rally there <end> 
+Probability of supporting 
+ Hillary Clinton: 2.704839862549478e-42 
+ Donald Trump: 1.856484334925839e-48
+For tweet: <start> a thing i don t like about donald trump is his voice changes when he speaks of other races he classifies them in groups like its them us <end> 
+Probability of supporting 
+ Hillary Clinton: 3.592582803335676e-58 
+ Donald Trump: 3.3063275497412536e-52
+For tweet: <start> hashtag reminds twitter that donald trump is no laughing matter <end> 
+Probability of supporting 
+ Hillary Clinton: 3.289032133152771e-16 
+ Donald Trump: 4.2413750922544984e-20
+For tweet: <start> lit like donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 5.222702516110396e-12 
+ Donald Trump: 4.6948299739821915e-12
+For tweet: <start> donald trump is literally just a old white guy trying to show off by doing something stupid running for president <end> 
+Probability of supporting 
+ Hillary Clinton: 3.965335973514366e-29 
+ Donald Trump: 1.608872607971839e-33
+For tweet: <start> dear donald trump some gentlemanly advice dear donald i was delighted t <end> 
+Probability of supporting 
+ Hillary Clinton: 5.0378943786839444e-30 
+ Donald Trump: 6.270177114903107e-27
+For tweet: <start> regular guy donald trump calls himself a blue collar worker at rally after the stress of a br <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3771782411551153e-42 
+ Donald Trump: 6.825365199413405e-48
+For tweet: <start> donald trump continues to insist that sexual assault is locker room banter or like isis <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8066859480771825e-29 
+ Donald Trump: 4.54290007007355e-31
+For tweet: <start> eric holder slams donald trump s chilling debate threat to hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1363934342094374e-32 
+ Donald Trump: 1.3042448693792335e-30
+For tweet: <start> dear donald trump i played in the nfl here s what we really talk about in the locker room <end> 
+Probability of supporting 
+ Hillary Clinton: 9.70717126474253e-37 
+ Donald Trump: 1.560871461578427e-34
+For tweet: <start> this includes copy of page from book and statement provided by donald trump s lawyers on behalf of ivana trump <end> 
+Probability of supporting 
+ Hillary Clinton: 6.438702886981452e-56 
+ Donald Trump: 6.2449299450694e-53
+For tweet: <start> melania trump s blouse might have been throwing shade at donald trump s remarks about sexually assaulting women <end> 
+Probability of supporting 
+ Hillary Clinton: 2.570675112586686e-43 
+ Donald Trump: 2.068411384957247e-37
+For tweet: <start> my teacher asked if any of us think that donald trump has what it takes to he president four kids put their hands up <end> 
+Probability of supporting 
+ Hillary Clinton: 2.5139270828574122e-42 
+ Donald Trump: 6.130329080861941e-44
+For tweet: <start> dear donald trump some gentlemanly advice <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3822215373207298e-17 
+ Donald Trump: 8.477521553019269e-14
+For tweet: <start> donald trump this crooked media is worse than hillary they are so dishonest w o the media hillary couldn t be elected dog catcher <end> 
+Probability of supporting 
+ Hillary Clinton: 6.2950574795949405e-40 
+ Donald Trump: 1.3788298712824372e-40
+For tweet: <start> dear donald trump some gentlemanly advice dear donald i was delighted to hear your declaration at sunday <end> 
+Probability of supporting 
+ Hillary Clinton: 6.90235060500364e-44 
+ Donald Trump: 7.877831185783109e-37
+For tweet: <start> bozo news donald trump jerry springer replacement show nbc universal <end> 
+Probability of supporting 
+ Hillary Clinton: 1.355451097676078e-35 
+ Donald Trump: 2.046125223063676e-25
+For tweet: <start> donald trump s second presidential debate performance was red meat to the alt right <end> 
+Probability of supporting 
+ Hillary Clinton: 2.788881014431776e-31 
+ Donald Trump: 1.8348581472463856e-33
+For tweet: <start> donald trump just joshing about jailing opponent tip your waitstaff is this mic on by <end> 
+Probability of supporting 
+ Hillary Clinton: 2.440617259705825e-39 
+ Donald Trump: 4.22390065973932e-48
+For tweet: <start> dear donald trump some gentlemanly advice dear donald i was delighted to hear your declaration at sunday <end> 
+Probability of supporting 
+ Hillary Clinton: 6.90235060500364e-44 
+ Donald Trump: 7.877831185783109e-37
+For tweet: <start> news no perverts the donald trump locker room talk remix tape for you <end> 
+Probability of supporting 
+ Hillary Clinton: 5.561301128761012e-27 
+ Donald Trump: 5.410909444923132e-28
+For tweet: <start> donald trump is the gop s chemotherapy <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3379996750918832e-12 
+ Donald Trump: 2.6987247231258905e-17
+For tweet: <start> live stream donald trump holds massive rally in wilkes barre pennysylv via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2632842042823147e-33 
+ Donald Trump: 6.022597553764245e-22
+For tweet: <start> dear donald trump i played in the nfl here s what we really talk about in the locker room via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.522763765430757e-37 
+ Donald Trump: 1.2635626117539648e-34
+For tweet: <start> best of donald trump at the second presidential debate against hillary clinton youtube <end> 
+Probability of supporting 
+ Hillary Clinton: 5.895698847700187e-25 
+ Donald Trump: 1.06615716745377e-22
+For tweet: <start> skittles tictac now locker room talk denounces donald trump s use of their trademark <end> 
+Probability of supporting 
+ Hillary Clinton: 9.468480935468765e-35 
+ Donald Trump: 7.651797982540083e-27
+For tweet: <start> dangerous donald trump borders on treason loving info from source he has been briefed on as a cyber attack from russia <end> 
+Probability of supporting 
+ Hillary Clinton: 4.2611279913639595e-48 
+ Donald Trump: 1.8632839866161901e-31
+For tweet: <start> regular guy donald trump calls himself a blue collar worker at rally after the stress of a b <end> 
+Probability of supporting 
+ Hillary Clinton: 6.168381342133763e-39 
+ Donald Trump: 7.691640550522956e-45
+For tweet: <start> we have to make sure this election is not stolen from us donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5875346849569412e-21 
+ Donald Trump: 1.035842467017174e-22
+For tweet: <start> def unsettling thinking about the fact that donald trump could be our next president his trial for raping a 13 year old girl begins soon <end> 
+Probability of supporting 
+ Hillary Clinton: 2.399204698440649e-47 
+ Donald Trump: 7.1310351346498315e-43
+For tweet: <start> donald trump s rape metaphor says more about him than about rape by via <end> 
+Probability of supporting 
+ Hillary Clinton: 2.0472166450123853e-25 
+ Donald Trump: 9.892033415195703e-27
+For tweet: <start> regular guy donald trump calls himself a blue collar worker at rally after the stress of a b via mashable <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2212552276695414e-45 
+ Donald Trump: 6.500347808965147e-51
+For tweet: <start> donald trump won t save us from his dystopian view of america he will manifest it <end> 
+Probability of supporting 
+ Hillary Clinton: 9.843692852847166e-34 
+ Donald Trump: 3.710601431324484e-33
+For tweet: <start> four weeks before election day house speaker paul ryan says he won t defend campaign with donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 5.265391766955503e-26 
+ Donald Trump: 9.679073377237013e-33
+For tweet: <start> dear donald trump some gentlemanly advice <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3822215373207298e-17 
+ Donald Trump: 8.477521553019269e-14
+For tweet: <start> here s copy of page from hurt s book and statement provided by donald trump s lawyers on behalf of ivana trump <end> 
+Probability of supporting 
+ Hillary Clinton: 5.111169419069182e-60 
+ Donald Trump: 9.167610294784953e-54
+For tweet: <start> so glad tyler likes donald trump bc i think i d have to leave him if he didn t <end> 
+Probability of supporting 
+ Hillary Clinton: 1.989461778876856e-31 
+ Donald Trump: 9.554165689492034e-33
+For tweet: <start> i m gonna vote for donald trump because he got hit by that bus i m voting for hillary because she pushed him <end> 
+Probability of supporting 
+ Hillary Clinton: 2.834886132786927e-32 
+ Donald Trump: 3.08636626376718e-34
+For tweet: <start> americucks when donald trump wins i like trump i think he will do you <end> 
+Probability of supporting 
+ Hillary Clinton: 1.6371166158221597e-29 
+ Donald Trump: 1.3106072200845273e-28
+For tweet: <start> donald trump s top 5 moments from the debate donald j trump for presi via <end> 
+Probability of supporting 
+ Hillary Clinton: 5.984739251405067e-29 
+ Donald Trump: 1.7694158194475028e-29
+For tweet: <start> an open letter to donald trump i reject your apology here s why and in honor of the truth i want <end> 
+Probability of supporting 
+ Hillary Clinton: 5.597972180158903e-37 
+ Donald Trump: 1.886235643718009e-42
+For tweet: <start> i just saw this on another post and thought it was funny donald trump answers the question what is 2 2 i have <end> 
+Probability of supporting 
+ Hillary Clinton: 2.262492314165991e-38 
+ Donald Trump: 7.823523371651816e-41
+For tweet: <start> dear donald trump some gentlemanly advice dear donald i was delighted to hear your declaration at sunday <end> 
+Probability of supporting 
+ Hillary Clinton: 6.90235060500364e-44 
+ Donald Trump: 7.877831185783109e-37
+For tweet: <start> the cartoonish villainy of donald trump is a major factor in distracting attention from the hawkish neoliberal <end> 
+Probability of supporting 
+ Hillary Clinton: 6.512964845331446e-47 
+ Donald Trump: 7.561034322010129e-49
+For tweet: <start> someone please shoot donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 3.5804823320905806e-08 
+ Donald Trump: 9.36594868546952e-13
+For tweet: <start> donald trump defended mike tyson following boxer s rape conviction saying women <end> 
+Probability of supporting 
+ Hillary Clinton: 7.086361631569597e-31 
+ Donald Trump: 1.2090721003493818e-27
+For tweet: <start> rca root cause analysis of donald trump 1 he wasn t vetted during primary 2 no public service 3 gop just wanted a man 4 ego manic <end> 
+Probability of supporting 
+ Hillary Clinton: 4.3419272204879774e-55 
+ Donald Trump: 7.269571676270499e-63
+For tweet: <start> 15 awful dictators that have striking similarities to donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3301581592814476e-26 
+ Donald Trump: 5.453683377502671e-35
+For tweet: <start> hillary clinton and donald trump are running for president clowns are attacking people and j cole hasn t released a new album we screwed <end> 
+Probability of supporting 
+ Hillary Clinton: 1.5813168157905647e-42 
+ Donald Trump: 2.6779515936593865e-50
+For tweet: <start> after trump s lewd comments pence says i couldn t be more honored to stand with donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2768229208247167e-31 
+ Donald Trump: 2.494431599298432e-32
+For tweet: <start> my favorite concept so far is that donald trump suggesting that he would appoint a special prosecutor to <end> 
+Probability of supporting 
+ Hillary Clinton: 4.623732771827275e-36 
+ Donald Trump: 4.1868610899120084e-44
+For tweet: <start> hey brits donald trump didn t pay any taxes in your country either <end> 
+Probability of supporting 
+ Hillary Clinton: 3.7743862239786324e-23 
+ Donald Trump: 1.718051051125921e-24
+For tweet: <start> donald is a home grown probably inevitable and natural outgrowth of a permanent strain in us politics and culture not an anomaly <end> 
+Probability of supporting 
+ Hillary Clinton: 2.140609462114543e-60 
+ Donald Trump: 2.108122719841723e-53
+For tweet: <start> new donald trump reportedly called a sound engineer a f king monkey on set of the apprentice <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0320175776732738e-37 
+ Donald Trump: 2.4820548967076837e-38
+For tweet: <start> paul ryan rejects trump donald trump s response is brutal must see <end> 
+Probability of supporting 
+ Hillary Clinton: 7.096085569332764e-22 
+ Donald Trump: 1.2357258926342344e-26
+For tweet: <start> sexual predators roger ailes donald trump two peas in a pod disgusting would you want them near you <end> 
+Probability of supporting 
+ Hillary Clinton: 4.4817880992168316e-48 
+ Donald Trump: 6.071433408478017e-42
+For tweet: <start> exclusive hillary clinton and donald trump weigh in on u s space policy <end> 
+Probability of supporting 
+ Hillary Clinton: 3.251249351824376e-25 
+ Donald Trump: 1.9299453994606536e-26
+For tweet: <start> donald trump makes horribly offensive remark about barbara bush proving he s as low as they come <end> 
+Probability of supporting 
+ Hillary Clinton: 2.796486702098572e-35 
+ Donald Trump: 1.8258872528679373e-32
+For tweet: <start> donald trump would have answered the calls crooked hillary failed to answer <end> 
+Probability of supporting 
+ Hillary Clinton: 7.449301409933803e-28 
+ Donald Trump: 4.80466647186606e-25
+For tweet: <start> why donald trump s transition from sexual assault to isis made sense <end> 
+Probability of supporting 
+ Hillary Clinton: 7.73923354653261e-22 
+ Donald Trump: 2.415227695760492e-23
+For tweet: <start> donald trump claims shackles have now been taken off his campaign <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3046487202524829e-20 
+ Donald Trump: 8.136768889632127e-23
+For tweet: <start> while donald trump s candidacy poses grave dangers so does group think righteousness <end> 
+Probability of supporting 
+ Hillary Clinton: 8.895096771417426e-30 
+ Donald Trump: 8.119063094907819e-34
+For tweet: <start> julian assange is not a rapist and would not falsify emails donald trump is not a child rapist and does not lie just kidding <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1554889956777046e-48 
+ Donald Trump: 1.5137783855313385e-46
+For tweet: <start> i liked a video hillary clinton and donald trump singing the time of my life is hilarious <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3319454038462473e-32 
+ Donald Trump: 1.2228088765476416e-38
+For tweet: <start> our livestream from the donald trump rally in panama city beach goes live at 7pm here s a link <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0599572527867997e-41 
+ Donald Trump: 5.2043607525236555e-40
+For tweet: <start> can we swear on our papers well donald trump can so i suppose you can too <end> 
+Probability of supporting 
+ Hillary Clinton: 2.1415992027956e-34 
+ Donald Trump: 1.0863506263619171e-30
+For tweet: <start> huffpollster donald trump is lagging far behind hillary clinton via <end> 
+Probability of supporting 
+ Hillary Clinton: 3.621370637602195e-22 
+ Donald Trump: 3.768269100508527e-23
+For tweet: <start> no donald trump isn t self funding his campaign <end> 
+Probability of supporting 
+ Hillary Clinton: 4.4695966769034744e-14 
+ Donald Trump: 8.179288261812351e-14
+For tweet: <start> with bill clinton it s about hillary n the child rapist known as donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 2.4950796452832357e-24 
+ Donald Trump: 6.027859685955776e-25
+For tweet: <start> bnews breakingpol donald trump on paul ryan i wouldn t want to be in a foxhole with a lot of these people including ryan esp <end> 
+Probability of supporting 
+ Hillary Clinton: 1.0967324385097782e-50 
+ Donald Trump: 2.534755737535556e-50
+For tweet: <start> 3 000 sexual assault survivors tell the gop to stop enabling donald trump in full page ad <end> 
+Probability of supporting 
+ Hillary Clinton: 9.855486148546261e-36 
+ Donald Trump: 4.7661005468383584e-40
+For tweet: <start> divided loyalty to donald trump fractures republicans <end> 
+Probability of supporting 
+ Hillary Clinton: 5.57104541185915e-20 
+ Donald Trump: 2.4041981179843943e-20
+For tweet: <start> as a southerner i denounce all elite establishment republicans against donald trump there i have spoken so shut up <end> 
+Probability of supporting 
+ Hillary Clinton: 7.454397167350428e-48 
+ Donald Trump: 1.828815507164722e-37
+For tweet: <start> trump 666 crazy for real donald trump shackles have been taken off me <end> 
+Probability of supporting 
+ Hillary Clinton: 9.132803557382438e-28 
+ Donald Trump: 3.065825837395852e-28
+For tweet: <start> along with his sanity the 2016 electoral map is rapidly slipping away from donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.876172384754646e-37 
+ Donald Trump: 9.610030113438392e-35
+For tweet: <start> trumpocrats jaw dropping numbers of democrats supporting donald trump via <end> 
+Probability of supporting 
+ Hillary Clinton: 5.556994864447106e-21 
+ Donald Trump: 2.216483895605663e-22
+For tweet: <start> donald trump under fire readies post election analysis the system is rigged w <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3767387724594613e-23 
+ Donald Trump: 8.309273272391854e-25
+For tweet: <start> sen marco rubio r fl reiterated his support for donald trump bucking a wave of fellow republicans who have <end> 
+Probability of supporting 
+ Hillary Clinton: 2.255632819375743e-43 
+ Donald Trump: 1.2655885422993473e-43
+For tweet: <start> donald trump and the pharisees <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1748659725304992e-14 
+ Donald Trump: 6.395514955284395e-15
+For tweet: <start> alec baldwin as donald trump is too scary 4 me <end> 
+Probability of supporting 
+ Hillary Clinton: 8.798438880903372e-24 
+ Donald Trump: 6.186199981689235e-24
+For tweet: <start> how bad is it for donald trump let s do the math <end> 
+Probability of supporting 
+ Hillary Clinton: 5.081568478702923e-27 
+ Donald Trump: 1.6634870729418463e-27
+For tweet: <start> alicia keys gives donald trump a big f you urges voters via <end> 
+Probability of supporting 
+ Hillary Clinton: 7.08647913187944e-25 
+ Donald Trump: 9.854346624452457e-29
+For tweet: <start> donald trump got you fired my momma always told me watch the friends you hang with boy <end> 
+Probability of supporting 
+ Hillary Clinton: 5.5737186916903066e-36 
+ Donald Trump: 1.2190620880929004e-32
+For tweet: <start> john fleming senator donald trump stands for securing our borders hillary clinton stands for open borders i stand with donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3666240934913573e-47 
+ Donald Trump: 1.032046304319922e-37
+For tweet: <start> live stream video massive rally for donald trump in panama city florida <end> 
+Probability of supporting 
+ Hillary Clinton: 1.3205293723683537e-28 
+ Donald Trump: 1.4464026892222843e-17
+For tweet: <start> unfit for power it s time for donald trump to step aside and make room for another via <end> 
+Probability of supporting 
+ Hillary Clinton: 6.8450454173961375e-34 
+ Donald Trump: 8.257008738026985e-29
+For tweet: <start> i love how donald trump plays off that audio like oh it was years ago as if he must have not known better when in reality he was a 50 <end> 
+Probability of supporting 
+ Hillary Clinton: 4.332014201550037e-52 
+ Donald Trump: 2.785073855741505e-51
+For tweet: <start> donald trump to do first post debate interview with a man accused of sexual harassment <end> 
+Probability of supporting 
+ Hillary Clinton: 1.4805264998700478e-26 
+ Donald Trump: 1.1335818931782248e-28
+For tweet: <start> breakingnews breakingpol donald trump on paul ryan i wouldn t want to be in a foxhole with a lot of these people including ryan <end> 
+Probability of supporting 
+ Hillary Clinton: 2.4561322960426485e-46 
+ Donald Trump: 7.141167339358922e-46
+For tweet: <start> top republicans bail on trump donald trump isn t making it easy for republicans <end> 
+Probability of supporting 
+ Hillary Clinton: 4.18589847569299e-27 
+ Donald Trump: 6.710529656972751e-28
+For tweet: <start> broncos db aqib talib donald trump was right about locker room talk he could fit in here broncos teammates <end> 
+Probability of supporting 
+ Hillary Clinton: 4.4322469441771516e-48 
+ Donald Trump: 1.8600824317707662e-48
+For tweet: <start> now donald trump is attacking republicans instead if hillary clinton <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9599789540271795e-19 
+ Donald Trump: 3.18657494792146e-16
+For tweet: <start> shocker news the pope in rome endorsed donald trump today and this is great news <end> 
+Probability of supporting 
+ Hillary Clinton: 2.3255852576765774e-32 
+ Donald Trump: 1.5189679317198575e-38
+For tweet: <start> the 2016 electoral map is rapidly slipping away from donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9019907372188878e-27 
+ Donald Trump: 3.274911904955844e-24
+For tweet: <start> donald trump wins second debate media say it doesn t matter via cnn sux <end> 
+Probability of supporting 
+ Hillary Clinton: 4.829131040951084e-28 
+ Donald Trump: 1.0424771628354033e-25
+For tweet: <start> per a judges order the child rape case against donald trump is moving forward <end> 
+Probability of supporting 
+ Hillary Clinton: 3.7882192353735634e-32 
+ Donald Trump: 3.1546059125778308e-30
+For tweet: <start> gloria allred calls on mark burnett to release donald trump apprentice tapes <end> 
+Probability of supporting 
+ Hillary Clinton: 3.3163287600483057e-25 
+ Donald Trump: 2.31684048892908e-29
+For tweet: <start> donald trump dismisses his locker room talk as normal athletes say it s not <end> 
+Probability of supporting 
+ Hillary Clinton: 9.005387168471437e-30 
+ Donald Trump: 1.0655650041827513e-22
+For tweet: <start> wsj donald trump s new attack strategy dissuade clinton voters <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2256641110091016e-22 
+ Donald Trump: 9.251461845135964e-20
+For tweet: <start> hillary clinton leads donald trump by 9 points poll finds the wall street journal yes because we trust you <end> 
+Probability of supporting 
+ Hillary Clinton: 2.2461457186951613e-36 
+ Donald Trump: 1.6535019153541809e-31
+For tweet: <start> that means bacon will vote for trillions of dollars in deficit financed tax cuts for the likes of donald trump paris hilton <end> 
+Probability of supporting 
+ Hillary Clinton: 3.5527547214578394e-57 
+ Donald Trump: 5.333456413123768e-56
+For tweet: <start> the 2016 electoral map is rapidly slipping away from donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 1.9019907372188878e-27 
+ Donald Trump: 3.274911904955844e-24
+For tweet: <start> the republican party is donald trump s party via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.7635390792714972e-15 
+ Donald Trump: 1.8137711105729565e-15
+For tweet: <start> donald trump s sexism insulting women greatest hits <end> 
+Probability of supporting 
+ Hillary Clinton: 9.432947430550937e-12 
+ Donald Trump: 2.3517963691920905e-23
+For tweet: <start> donald trump returns to his vicious primary self and there s nothing the rnc can do to stop him insider <end> 
+Probability of supporting 
+ Hillary Clinton: 1.09241494265872e-42 
+ Donald Trump: 1.0218415571745906e-40
+For tweet: <start> paul ryan turns focus from donald trump to house races roiling g o p <end> 
+Probability of supporting 
+ Hillary Clinton: 2.6372956468983656e-28 
+ Donald Trump: 3.8622836225669565e-31
+For tweet: <start> donald trump because you d be in jail via <end> 
+Probability of supporting 
+ Hillary Clinton: 8.288382026661683e-16 
+ Donald Trump: 7.104107515663591e-17
+For tweet: <start> donald trump goes rogue suggesting that pennsylvania will have voter fraud trump s undermining the system <end> 
+Probability of supporting 
+ Hillary Clinton: 1.8116334676959114e-35 
+ Donald Trump: 1.2902585767364765e-37
+For tweet: <start> donald trump made less than he pretends a lot less <end> 
+Probability of supporting 
+ Hillary Clinton: 1.1517042168876172e-19 
+ Donald Trump: 4.430439302492679e-20
+For tweet: <start> i bet that donald trump doesn t mind it when people on tv shows are clearly drinking from empty cups monster <end> 
+Probability of supporting 
+ Hillary Clinton: 2.8998230825737237e-41 
+ Donald Trump: 7.311152197909195e-47
+For tweet: <start> donald trump s confused portrait of black america politico <end> 
+Probability of supporting 
+ Hillary Clinton: 8.562294108872485e-26 
+ Donald Trump: 3.748586893668713e-27
+For tweet: <start> thedailyshow trevor unpacks donald trump s locker room talk excuse <end> 
+Probability of supporting 
+ Hillary Clinton: 4.678227895314138e-24 
+ Donald Trump: 4.966877634111045e-25
+For tweet: <start> this is just beautiful kids with a lesson for donald trump <end> 
+Probability of supporting 
+ Hillary Clinton: 9.266494990663363e-26 
+ Donald Trump: 5.347850741009519e-21
+For tweet: <start> my name is izzy and i m gonna keep it all the way real not on those donald trump levels either you can miss me with that bs <end> 
+Probability of supporting 
+ Hillary Clinton: 6.407291646565341e-51 
+ Donald Trump: 2.4783699057191228e-52
+For tweet: <start> mike pence s fellow parishioners are furious at donald trump via <end> 
+Probability of supporting 
+ Hillary Clinton: 1.2288172714742186e-24 
+ Donald Trump: 3.3547125427886096e-25
+
+
+% supporting Hillary Clinton: 15.391528073842068 
+% supporting Donald Trump: 84.60847192615793
