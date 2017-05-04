@@ -1,4 +1,4 @@
-Test using namesdebate1019 on 04/05/2017 at 12:55:02
+Test using namesdebate1019 on 04/05/2017 at 12:57:36
 For tweet: <start> hillary clinton is loyal smart inspir <end> 
 Probability of supporting 
  Hillary Clinton: 3.1018246634608664e-17 

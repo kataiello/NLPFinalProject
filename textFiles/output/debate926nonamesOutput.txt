@@ -1,4 +1,4 @@
-Test using debate926nonames on 04/05/2017 at 12:55:02
+Test using debate926nonames on 04/05/2017 at 12:57:36
 For tweet: <start> of americans that believe bigfoot exists 14 of americans that believe is honest trustworthy 11 happy first debate <end> 
 Probability of supporting 
  Hillary Clinton: 8.325023885802909e-47 

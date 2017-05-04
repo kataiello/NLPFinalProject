@@ -1,4 +1,4 @@
-Test using debate109 on 04/05/2017 at 12:55:01
+Test using debate109 on 04/05/2017 at 12:57:35
 For tweet: <start> more than ever not trump <end> 
 Probability of supporting 
  Hillary Clinton: 4.3219330289108067e-10 

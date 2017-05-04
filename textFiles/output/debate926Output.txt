@@ -1,4 +1,4 @@
-Test using debate926 on 04/05/2017 at 12:55:01
+Test using debate926 on 04/05/2017 at 12:57:35
 For tweet: <start> wonder if could boost ratings up to 15 if joined what do you think <end> 
 Probability of supporting 
  Hillary Clinton: 4.05584440491925e-34 

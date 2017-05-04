@@ -1,4 +1,4 @@
-Test using debate1019 on 04/05/2017 at 12:55:01
+Test using debate1019 on 04/05/2017 at 12:57:36
 For tweet: <start> nachos and a bar packed with democrats for the in washington dc <end> 
 Probability of supporting 
  Hillary Clinton: 1.1510849336045065e-28 
